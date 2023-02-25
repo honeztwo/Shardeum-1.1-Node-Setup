@@ -73,7 +73,7 @@ Shell dosyasına girelim ;
 ./shell.sh
 ```
 
-# 7 -  Nodumuzu başlatalım !! 
+# 8 -  Nodumuzu başlatalım !! 
 Bu işlemi yaptıktan sonra nodumuz şuan çalışır durumda olması lazım !
 
 ```
@@ -81,7 +81,7 @@ operator-cli gui start
 
 ```
 
-# 8 -  Dashboard için hazırlıklar 
+# 9 -  Dashboard için hazırlıklar 
 
 ```
 https://localhost:8080/
@@ -90,6 +90,6 @@ Localhost yazan kısma Vps'in public IP adresini yazalım, örnek verecek olursa
 
 https://48.18.153.38:8080/
 
-Sonra bunu tarayıcınıza kopyalayıp yapıştırın. Sizden validatore bağlanmanız için şifre isteyecek , daha önceden belirlediğiniz şifreyi girip dashboard erişim sağlayabilrisin,z. Buradan validatörü çalıştırıp min 10 Shm stake etmeniz gerekli
+Sonra bunu tarayıcınıza kopyalayıp yapıştırın. Sizden validatore bağlanmanız için şifre isteyecek , daha önceden belirlediğiniz şifreyi girip dashboard erişim sağlayabilrisiniz. Buradan validatörü çalıştırıp min 10 Shm stake etmeniz gerekli..
 
 
