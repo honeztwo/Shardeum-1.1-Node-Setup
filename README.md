@@ -89,3 +89,7 @@ https://localhost:8080/
 Localhost yazan kısma Vps'in public IP adresini yazalım, örnek verecek olursak ;
 
 https://48.18.153.38:8080/
+
+Sonra bunu tarayıcınıza kopyalayıp yapıştırın. Sizden validatore bağlanmanız için şifre isteyecek , daha önceden belirlediğiniz şifreyi girip dashboard erişim sağlayabilrisin,z. Buradan validatörü çalıştırıp min 10 Shm stake etmeniz gerekli
+
+
