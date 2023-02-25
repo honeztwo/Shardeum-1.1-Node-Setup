@@ -4,7 +4,7 @@ Türkçe kaynak bulamadağım için bu şekidle bir repo hazırlayayım dedim.
 
 Ben Vps olarak Digitalocean kullanıyorum, 
 
-#Minimum Sistem Gereksinimleri :
+# Minimum Sistem Gereksinimleri :
 ```
 -250 GB SSD storage
 -Quad core CPU less than 10 years old if self hosting
