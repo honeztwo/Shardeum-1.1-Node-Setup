@@ -53,10 +53,30 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 ```
 # 6 - Kurulum dosyasını indirelim :
+
 Y/n gelecek Y basıp enterlayalım,
-**** Çok Önemli Tekrar Y/N gelecek burada sizden 
+
+* Çok Önemli Tekrar Y/N gelecek burada sizden daha sonra kullanmanız için şifre belirlemenizi isteyecek, belirlediğiniz şifreyi unutmayın!!
+* Entere bastıktan sonra size bir kaç şey  soracak herhangi bir şey yazmadan hepsine enterlayıp geçin
+* 
 
 ```
 curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh && chmod +x installer.sh && ./installer.sh
 
+```
+
+
+
+# 7 -  Şimdi Shardeum dosyasına girelim :
+```
+cd .shardeum
+```
+./shell.sh
+```
+```
+
+# 7 -  Nodumuzu başlatalım !! :
+Bu işlemi yaptıktan sonra nodumuz şuan çalışır durumda olması lazım !
+```
+**cd .shardeum**
 ```
