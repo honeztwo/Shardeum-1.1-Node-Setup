@@ -73,9 +73,19 @@ Shell dosyasına girelim ;
 ./shell.sh
 ```
 
-# 7 -  Nodumuzu başlatalım !! :
+# 7 -  Nodumuzu başlatalım !! 
 Bu işlemi yaptıktan sonra nodumuz şuan çalışır durumda olması lazım !
 
 ```
 operator-cli gui start
+
 ```
+
+# 8 -  Dashboard için hazırlıklar 
+
+```
+https://localhost:8080/
+```
+Localhost yazan kısma Vps'in public IP adresini yazalım, örnek verecek olursak ;
+
+https://48.18.153.38:8080/
