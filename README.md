@@ -41,3 +41,22 @@ sudo apt install docker.io
 docker --version
 
 ```
+# 4 - Githup reposunu klonlayalım :
+```
+sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+
+```
+
+# 5 - docker-compose dosyasını oluşturalım :
+```
+sudo chmod +x /usr/local/bin/docker-compose
+
+```
+# 6 - Kurulum dosyasını indirelim :
+Y/n gelecek Y basıp enterlayalım,
+**** Çok Önemli Tekrar Y/N gelecek burada sizden 
+
+```
+curl -O https://gitlab.com/shardeum/validator/dashboard/-/raw/main/installer.sh && chmod +x installer.sh && ./installer.sh
+
+```
