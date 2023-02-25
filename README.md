@@ -6,9 +6,10 @@
 
 # Shardeum-1.1-Node-Setup
 𝗦𝗽𝗵𝗶𝗻𝘅 1.1 Node Setup
-Türkçe kaynak bulamadağım için bu şekidle bir repo hazırlayayım dedim.
 
-Ben Vps olarak Digitalocean kullanıyorum, 
+Türkçe kaynak bulamadağım için bu şekilfe bir repo hazırlayayım dedim.
+
+Ben Vps sağlayıcı olarak Digitalocean kullanıyorum, 
 
 # Minimum Sistem Gereksinimleri :
 ```
@@ -22,5 +23,5 @@ sudo apt update && apt upgrade -y
 ```
 # Karşınıza bu şekilde bir ekran çıkarsa 1 2 3 4 5 6 yazıp enter basın :
 ```
-https://prnt.sc/7IbLq7sw5FaU
+![image]https://prnt.sc/7IbLq7sw5FaU
 ```
